@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<format>
+<defaut>true</defaut>
+  <mimeType>application/png</mimeType>
+  <name>L</name>
+  <extension>png</extension>
+  <properties>
+    <entry><key>size</key><value>50x50</value></entry>
+  </properties>
+</format>

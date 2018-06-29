@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<web-app>
+	<servlet-mapping>
+		<servlet-name>javax.ws.rs.core.Application</servlet-name>
+		<url-pattern>/WS/*</url-pattern>
+	</servlet-mapping>
+
+	<!-- To enable clustering of your web application you must tag it as distributable -->
+	<distributable/>
+</web-app>
