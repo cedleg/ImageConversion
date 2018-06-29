@@ -21,7 +21,7 @@ Compile and deploy war in JBoss WildFly 12
 
 ## Authors
 
-* **Cédric L** - *Initial work* - [ImageConversion](https://github.com/PurpleBooth)
+* **Cédric L** - *Initial work* - [ImageConversion](https://github.com/cedleg/ImageConversion)
 
 ## Contributing
 
