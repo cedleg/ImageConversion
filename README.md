@@ -3,6 +3,7 @@
 # ImageConversion
 
 Convert an image in custom format from RESTful service using ImageMagick API
+Back-office web service in JEE Hibernate MySql-connector environment 
 
 ### Serve
 
@@ -13,6 +14,7 @@ git clone https://github.com/cedleg/ImageMagik.git
 
 ## Install
 
+you need to before installed ImageMagick
 Compile and deploy war in JBoss WildFly 12
 
 ## Built With
