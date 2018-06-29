@@ -2,8 +2,9 @@
 
 # ImageConversion
 
+Back-office web service in JEE Hibernate MySql-connector environment</br>
 Convert an image in custom format from RESTful service using ImageMagick API
-Back-office web service in JEE Hibernate MySql-connector environment 
+
 
 ### Serve
 
